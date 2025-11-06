@@ -1,0 +1,27 @@
+{
+  "Text": "My Savior's Love",
+  "Verses": [
+    { "Text": "My Savior's Love\n1" },
+    { "Text": "I stand amazed\nin the presence\nOf Jesus the Nazarene," },
+    { "Text": "And wonder how\nHe could love me,\nA sinner, condemned, unclean." },
+    { "Tag": 1, "Text": "How marvelous!\nhow wonderful!\nAnd my song shall ever be:" },
+    { "Tag": 1, "Text": "How marvelous!\nhow wonderful!\nIs my Savior's love for me!" },
+    { "ID": 2, "Text": "For me it was in the garden\nHe prayed:\nNot My will, but Thine." },
+    { "ID": 2, "Text": "He had no tears for\nHis own griefs, But sweat\ndrops of blood for mine." },
+    { "Tag": 1, "Text": "How marvelous!\nhow wonderful!\nAnd my song shall ever be:" },
+    { "Tag": 1, "Text": "How marvelous!\nhow wonderful!\nIs my Savior's love for me!" },
+    { "ID": 3, "Text": "In pity angels beheld Him,\nAnd came from\nthe world of light" },
+    { "ID": 3, "Text": "To comfort Him\nin the sorrows\nHe bore for my soul that night." },
+    { "Tag": 1, "Text": "How marvelous!\nhow wonderful!\nAnd my song shall ever be:" },
+    { "Tag": 1, "Text": "How marvelous!\nhow wonderful!\nIs my Savior's love for me!" },
+    { "ID": 4, "Text": "He took my sins\nand my sorrows,\nHe made them His very own;" },
+    { "ID": 4, "Text": "He bore the\nburden to Calvary,\nAnd suffered and died alone." },
+    { "Tag": 1, "Text": "How marvelous!\nhow wonderful!\nAnd my song shall ever be:" },
+    { "Tag": 1, "Text": "How marvelous!\nhow wonderful!\nIs my Savior's love for me!" },
+    { "ID": 5, "Text": "When with the\nransomed in glory\nHis face I at last shall see," },
+    { "ID": 5, "Text": "'Twill be my joy\nthrough the ages\nTo sing of His love for me." },
+    { "Tag": 1, "Text": "How marvelous!\nhow wonderful!\nAnd my song shall ever be:" },
+    { "Tag": 1, "Text": "How marvelous!\nhow wonderful!\nIs my Savior's love for me!" }
+  ],
+  "Sequence": "v1 c1 v2 c1 v3 c1 v4 c1 v5 c1"
+}
